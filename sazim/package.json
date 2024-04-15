@@ -1,0 +1,24 @@
+{
+  "name": "sazim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.9.10",
+    "@prisma/client": "^5.12.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.1",
+    "twilio": "^5.0.3"
+  },
+  "devDependencies": {
+    "prisma": "^5.12.1"
+  }
+}
